@@ -1,4 +1,5 @@
-https://roadmap.sh/projects/single-page-cv
+[Project url](https://roadmap.sh/projects/single-page-cv)
+
 
 Single-Page CV Project
 
